@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Fulano FlX 🖐️
 
-[![|Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white=https://discord.gg/VjkfdYta)](https://discord.gg/VjkfdYta)
+[![|Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white=https://discord.gg/cuYrrUaMeK)]([https://discord.gg/VjkfdYta](https://discord.gg/cuYrrUaMeK))
 
 ## Tecnologias que eu uso no meu dia
 
